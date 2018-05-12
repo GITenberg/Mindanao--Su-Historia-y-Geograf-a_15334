@@ -1,0 +1,28 @@
+_repo: Mindanao--Su-Historia-y-Geograf-a_15334
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nieto Aguilar, José
+    aliases:
+    - Nieto Aguilar, Jose
+    - Aguilar, José Nieto
+    gutenberg_agent_id: '6003'
+    url: http://www.gutenberg.org/2009/agents/6003
+description: ''
+gutenberg_issued: '2005-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15334'
+  lccn: '12004991'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Mindanao Island (Philippines)'
+title: 'Mindanao: Su Historia y Geografía'
+url: http://www.gutenberg.org/ebooks/15334
