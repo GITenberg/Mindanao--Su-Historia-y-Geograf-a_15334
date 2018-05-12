@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6003'
     url: http://www.gutenberg.org/2009/agents/6003
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15334#Mindanao--Su-Historia-y-Geograf-a
 gutenberg_issued: '2005-03-12'
 gutenberg_type: Text
 identifiers:
